@@ -1,0 +1,70 @@
+
+©õ£
+	/host:CPUõ'÷«
+tf_Compute/1702743822÷«ŒÔÌĞ
+pythonŒÔÌĞ'•à—„
+tf_Compute/-528093163•à—„'ÑÑ¥
+tf_Compute/-189503347ÑÑ¥"!õŒÔÌĞtf.constantHè˜®ÁP¸÷î$"VõŒÔÌĞ__call__H˜îì©P¨ø±ÆcZ!
+tf_function_calltraced-nonXlaZ
+tracing_count1"/õŒÔÌĞTFE_Py_ExecuteCancelableHØéØOPèÖ‹è"=õŒÔÌĞ&EagerExecute: __inference___call___495H¨ŸğéOPÈ†Õ"BõŒÔÌĞ+EagerLocalExecute: __inference___call___495Hà¯–ìOP ƒÊÑ"5õŒÔÌĞEagerCopyToDeviceAndAddCacheKeyHØÛîOP€˜Â"BõŒÔÌĞ-TensorHandle::GetResourceHandleInfo WaitReadyH¸óOP°s"BõŒÔÌĞ-TensorHandle::GetResourceHandleInfo WaitReadyH¸­ˆ÷OP šU"CõŒÔÌĞ-TensorHandle::GetResourceHandleInfo WaitReadyH°ÂîøOPØÚî"CõŒÔÌĞ-TensorHandle::GetResourceHandleInfo WaitReadyH°ğ©üOP°îĞ"3õŒÔÌĞValidateInputTypeAndPlacementH¨ö‘·gP˜ê"HõŒÔÌĞEagerKernelExecuteHˆˆÂgPğšÔùZ
+group_id0Z
+	step_name0"MõŒÔÌĞFunctionRunH°ØËgPˆ˜ÈºZ
+group_id0Z
+id-2834112096714093016",õŒÔÌĞTFE_DeleteTensorHandleHÈ¥Ï‡kP¸¦",õŒÔÌĞTFE_DeleteTensorHandleH˜ş—ÑmP¤ˆ"!õŒÔÌĞtf.constantHĞåò¦sPø©j",õŒÔÌĞTFE_DeleteTensorHandleHÀŠı…tP˜Æİ"/õŒÔÌĞTFE_Py_FastPathExecute_CH˜¡ôÑtP¨Ë÷¶"+õŒÔÌĞTFE_DeleteTensorHandleHĞû¡uPøÄY",õŒÔÌĞTFE_DeleteTensorHandleH°ß”…uPğò".õŒÔÌĞEagerExecute: LogicalAndHĞüÊuPøÙ‘i"3õŒÔÌĞEagerLocalExecute: LogicalAndH¯Æ’uPÈ­´d"3õŒÔÌĞValidateInputTypeAndPlacementHˆ—×ŞuP „"7õŒÔÌĞEagerKernelExecuteHˆ•ŸãuPğ±ÆZ
+group_id0"bõŒÔÌĞ
+LogicalAndHøü÷éuPÀ—òZ"
+	long_nameLogicalAnd:LogicalAndZ
+group_id0Z
+is_eager1".õŒÔÌĞTFE_Py_FastPathExecute_CHĞ¦¡¿vPÈ¬ñ4",õŒÔÌĞEagerExecute: IdentityHàËÒÏvPø´¢""1õŒÔÌĞEagerLocalExecute: IdentityHÚÅĞvPÀ„Ú "2õŒÔÌĞValidateInputTypeAndPlacementHğœ‡èvPøÄY"7õŒÔÌĞEagerKernelExecuteHØÔñévPèÌÔZ
+group_id0"\õŒÔÌĞIdentityHĞ€úëvP¸¦Z
+	long_nameIdentity:IdentityZ
+group_id0Z
+is_eager1".õŒÔÌĞTFE_Py_FastPathExecute_CHæÀúvPˆîú"!õŒÔÌĞtf.constantHğËøÂyP°É¸",õŒÔÌĞTFE_DeleteTensorHandleH˜å×yP€ÇŒ"!õŒÔÌĞtf.constantHÈ°çyPèƒ	"+õŒÔÌĞTFE_DeleteTensorHandleHàÉíyP½Y"!õŒÔÌĞtf.constantH¨ºŠzP¨ØÜ	"+õŒÔÌĞTFE_DeleteTensorHandleHàâzPˆ¢U".õŒÔÌĞTFE_Py_ExecuteCancelableHøÊ¡›zPğØÊ6"0õŒÔÌĞEagerExecute: WriteSummaryHĞúµ£zPèºå,"5õŒÔÌĞEagerLocalExecute: WriteSummaryHˆ¤­¤zPğÅ¡*"2õŒÔÌĞValidateInputTypeAndPlacementHà„Ş¹zPÀën"7õŒÔÌĞEagerKernelExecuteHãİ»zP˜Ç†Z
+group_id0"hõŒÔÌĞWriteSummaryHÈóƒ¾zPğÃÏZ&
+	long_nameWriteSummary:WriteSummaryZ
+group_id0Z
+is_eager1",õŒÔÌĞTFE_DeleteTensorHandleHÈ °ÔzPØú",õŒÔÌĞTFE_DeleteTensorHandleH˜°§×zP¸°È",õŒÔÌĞTFE_DeleteTensorHandleHˆ‘¸ÚzPĞ¨È"!õŒÔÌĞtf.constantH€ÂĞäzPÀÎ­"+õŒÔÌĞTFE_DeleteTensorHandleH¨Ê ízPˆ¢U"+õŒÔÌĞTFE_DeleteTensorHandleHˆÅ¬ôzPøÄY",õŒÔÌĞTFE_DeleteTensorHandleHØ„—özPø”æ",õŒÔÌĞTFE_DeleteTensorHandleH€‹¯ƒ{PÈí¡"+õŒÔÌĞTFE_DeleteTensorHandleHø†Ä†{Pˆ¢U"fõÑÑ¥ExecutorState::ProcessHÈˆµ‹iPğÜº-Z
+id-2834112096714093016Z
+iter_num0Z
+group_id0"tõÑÑ¥ReadVariableOpH¨½İiPèƒ	Z
+is_eager0Z0
+	long_name#add_1/ReadVariableOp:ReadVariableOpZ
+group_id0"fõ•à—„ExecutorState::ProcessHĞğ‡¡iPàÒ’Z
+iter_num0Z
+group_id0Z
+id-2834112096714093016"rõ•à—„ReadVariableOpHøİÎ¯iPÈí¡Z.
+	long_name!add/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"fõ•à—„ExecutorState::ProcessHèóâ¹iP ááZ
+id-2834112096714093016Z
+iter_num0Z
+group_id0"wõ•à—„ReadVariableOpH ÚºiPØúZ3
+	long_name&MatMul_1/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"fõ÷«ExecutorState::ProcessH¨½İiPˆ´’>Z
+iter_num0Z
+group_id0Z
+id-2834112096714093016"uõ÷«ReadVariableOpH ÉÃ¡iPÀ‚ˆZ1
+	long_name$MatMul/ReadVariableOp:ReadVariableOpZ
+group_id0Z
+is_eager0"Võ÷«MatMulHˆ¹’´iPÀšÓZ
+is_eager0Z
+	long_nameMatMul:MatMulZ
+group_id0"Qõ÷«AddV2HÈ£òÇiPøÂ¡Z
+	long_name	add:AddV2Z
+group_id0Z
+is_eager0"Põ÷«ReluHà—‹ÎiP€ç®Z
+	long_name	Relu:ReluZ
+group_id0Z
+is_eager0"Xõ÷«MatMulH°§‚ÑiPàœæZ
+	long_nameMatMul_1:MatMulZ
+group_id0Z
+is_eager0"Sõ÷«AddV2HĞµÔiPÄªZ
+is_eager0Z
+	long_nameadd_1:AddV2Z
+group_id0"Qõ÷«ReluH˜ä…ØiPÈ†sZ
+	long_nameRelu_1:ReluZ
+group_id0Z
+is_eager0"Uõ÷«ExecutorDoneCallbackH ä€ŞiPø€®Z
+group_id0Z
+id-2834112096714093016
